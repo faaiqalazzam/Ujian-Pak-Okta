@@ -1,3 +1,8 @@
+Nama : Muhammad Faaiq Khairy Al Azzam
+Soal : 24
+XI APPS 1
+
+
 . Penjelasan Class Model Service View
 Aplikasi ini dirancang menggunakan pemisahan tugas (separation of concerns) agar struktur kode bersih dan mudah dikelola:
 KendaraanRental : Berfungsi sebagai representasi objek data kendaraan. jadi ada properti seperti Kode, Merek, TarifHarian, dan Tersedia, serta method untuk aturan bisnis seperti perhitungan sewa dan pengubahan status kendaraan.
