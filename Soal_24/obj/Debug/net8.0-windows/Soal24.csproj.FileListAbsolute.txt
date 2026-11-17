@@ -1,0 +1,38 @@
+C:\Users\admin\Downloads\Soal_24\bin\Debug\net8.0-windows\Soal24.exe
+C:\Users\admin\Downloads\Soal_24\bin\Debug\net8.0-windows\Soal24.deps.json
+C:\Users\admin\Downloads\Soal_24\bin\Debug\net8.0-windows\Soal24.runtimeconfig.json
+C:\Users\admin\Downloads\Soal_24\bin\Debug\net8.0-windows\Soal24.dll
+C:\Users\admin\Downloads\Soal_24\bin\Debug\net8.0-windows\Soal24.pdb
+C:\Users\admin\Downloads\Soal_24\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\admin\Downloads\Soal_24\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\Soal_24\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\Soal24.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\Soal24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\Soal24.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\Soal24.AssemblyInfo.cs
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\Soal24.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\Soal24.csproj.Up2Date
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\Soal24.dll
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\refint\Soal24.dll
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\Soal24.pdb
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\Soal24.genruntimeconfig.cache
+C:\Users\admin\Downloads\Soal_24\obj\Debug\net8.0-windows\ref\Soal24.dll
+C:\Users\admin\Downloads\Soal_24 - Copy\bin\Debug\net8.0-windows\Soal24.exe
+C:\Users\admin\Downloads\Soal_24 - Copy\bin\Debug\net8.0-windows\Soal24.deps.json
+C:\Users\admin\Downloads\Soal_24 - Copy\bin\Debug\net8.0-windows\Soal24.runtimeconfig.json
+C:\Users\admin\Downloads\Soal_24 - Copy\bin\Debug\net8.0-windows\Soal24.dll
+C:\Users\admin\Downloads\Soal_24 - Copy\bin\Debug\net8.0-windows\Soal24.pdb
+C:\Users\admin\Downloads\Soal_24 - Copy\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\admin\Downloads\Soal_24 - Copy\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\Soal_24 - Copy\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\Soal24.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\Soal24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\Soal24.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\Soal24.AssemblyInfo.cs
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\Soal24.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\Soal24.csproj.Up2Date
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\Soal24.dll
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\refint\Soal24.dll
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\Soal24.pdb
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\Soal24.genruntimeconfig.cache
+C:\Users\admin\Downloads\Soal_24 - Copy\obj\Debug\net8.0-windows\ref\Soal24.dll
